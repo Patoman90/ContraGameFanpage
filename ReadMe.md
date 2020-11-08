@@ -14,3 +14,10 @@
 
 ### Tools used
 
+* Git hub version control
+* Git Bash terminal
+* Visual studio code IDE
+* Google browser
+
+### Resources used
+
