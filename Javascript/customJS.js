@@ -1,0 +1,4 @@
+const changeImg = {
+    gallery: []
+    
+};
