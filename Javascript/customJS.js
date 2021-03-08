@@ -1,4 +1,3 @@
-const changeImg = {
-    gallery: []
-    
-};
+$(document).ready(() => {
+    //Jquery goes here
+});
