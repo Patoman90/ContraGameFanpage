@@ -1,6 +1,34 @@
 
-
-.imgGallery{
-    width: 20%;
-    height: auto;
+header{
+    background-color: darkslategray;
+    color: darkorange;
+    font-size: 30px;
+    padding: 50px;
+    text-align: center;
 };
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    align-items: inherit;
+    background-color: blue;
+  };
+
+  nav{
+      align-content: space-around;
+   
+  }
+
+  .navButton{
+      width:70%;
+      height: 50px;
+      background-color: black;
+  }
+
+  a{
+      font-size: 2em;
+      color: orange;
+      text-decoration: none;
+  }
+
+
